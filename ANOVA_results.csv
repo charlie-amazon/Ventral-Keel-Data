@@ -1,0 +1,19 @@
+﻿Body,Flow Speed (m/s),Response Variable,p-value
+Deep,30,Thrust (N),0.01741
+Deep,30,Torque (Nm),0.0001118
+Deep,20,Thrust (N),0.2158
+Deep,20,Torque (Nm),0.005915
+Deep,10,Thrust (N),0.1384
+Deep,10,Torque (Nm),0.1202
+Elongate,30,Thrust (N),0.5226
+Elongate,30,Torque (Nm),1.21E-09
+Elongate,20,Thrust (N),0.1482
+Elongate,20,Torque (Nm),0.0003112
+Elongate,10,Thrust (N),0.5667
+Elongate,10,Torque (Nm),0.5284
+Medium,30,Thrust (N),0.8245
+Medium,30,Torque (Nm),2.55E-08
+Medium,20,Thrust (N),0.9179
+Medium,20,Torque (Nm),0.2056
+Medium,10,Thrust (N),0.9745
+Medium,10,Torque (Nm),0.9412
